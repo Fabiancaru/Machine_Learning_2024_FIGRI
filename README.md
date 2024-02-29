@@ -13,8 +13,8 @@ The course is a guided learning space where the student will understand how arti
   </tr>
 <tr>
     <td> 1. Regression </td>
-    <td rowspan="2"><a href="">Mini_proyecto_1_regression</td> 
-    <td rowspan="2"><a href="">Rúbrica_Mini_proyecto_1</td>
+    <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning_2024_FIGRI/blob/main/Mini_proyecto_1/Mini%20Proyecto%201.pdf">Mini_proyecto_1_regression</td> 
+    <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning_2024_FIGRI/blob/main/Mini_proyecto_1/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20Mini.pdf">Rúbrica_Mini_proyecto_1</td>
   <tr>
     </tr>  
 
