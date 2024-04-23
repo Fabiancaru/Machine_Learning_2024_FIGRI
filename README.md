@@ -17,6 +17,10 @@ The course is a guided learning space where the student will understand how arti
     <td rowspan="2"><a href="https://github.com/Fabiancaru/Machine_Learning_2024_FIGRI/blob/main/Mini_proyecto_1/R%C3%BAbrica%20de%20evaluaci%C3%B3n%20Mini.pdf">Rúbrica_Mini_proyecto_1</td>
   <tr>
     </tr>  
+  <tr>
+    <td> 3. Arquitectura y construcción de distintas redes 
 
+  <td> <li> <a href="https://github.com/Fabiancaru/Advanced_Methods_Data_Analysis_II/blob/main/Architecture.md">Architecture</a> 
+       <li> <a href="https://github.com/Fabiancaru/Advanced_Methods_Data_Analysis_II/blob/main/Architecture2.md">Architecture_2</a></td>
   
 </table> 
